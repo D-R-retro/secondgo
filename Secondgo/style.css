@@ -1,0 +1,48 @@
+body {
+    background-color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a {
+    border: 2px solid black;
+    padding: 6px;
+}
+h1 {
+    background-color: blueviolet;
+    border: 5px solid black;
+    text-align: center;
+    color: black;
+    height: 130px;
+}
+p {
+    color: darkblue;
+    text-align: center;
+    background-color: yellowgreen;
+    height: 130px;
+    border: 3px solid black;
+    width: 50%;
+    float: left;
+}
+ol {
+    border: 3px solid black;
+    float: right;
+    width: 43%;
+    height: 160;
+    padding: 12px 32px;
+    background-color: slateblue;
+}
+h2 {
+    border: 2px solid white;
+    margin-top: 120px;
+}
+#info {
+    float: left;
+    border: 2px solid black;
+    padding: 6px;
+    margin-top: 160px;
+    color: black;
+}
+#info2 {
+    border: 2px solid black;
+    padding: 6px;
+    color: black;
+}
